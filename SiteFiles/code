@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+
+<head>
+  <title> My Name Jeff </title>
+  <link rel='stylesheet' href='code.css'>
+<html>
+
+<body>
+
+<body style="background-color:red;">
+
+  <audio controls autoplay>
+    <source src="shootingstars.mp3" type="audio/mpeg">
+  Your browser does not support the audio element.
+  </audio>
+
+<h1>minecraft</h1>
+
+<img src="https://i.ytimg.com/vi/mVyI-dzPawY/maxresdefault.jpg" style="width:1000px;height:1000px;">
+
+<p>My name jeff</p>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/utLaZrrPLrk" frameborder="0" allowfullscreen></iframe>
+
+<h1 style="text-align: center;"> How to Brush Your Teeth In Depth Tutorial </h1>
+
+<img src="UhgLUC4.gif" style="width:1000px;height:1000px;display:block;margin:auto;">
+
+<h1 style="text-align: center;"> How To Take A Bath Comprehensive Guide </h1>
+
+<img src="shower.gif" style="width:1000px;height:1000px;display:block;margin:auto;">
+
+<center>
+  <h1>My Chart #1</h1>
+  <table>
+    <tr>
+      <td>L</td>
+      <td>M</td>
+      <td>A</td>
+      <td>O</td>
+      <tr>
+        <td>R</td>
+        <td>O</td>
+        <td>F</td>
+        <td>L</td>
+      </tr>
+      <td>L</td>
+      <td>M</td>
+      <td>A</td>
+      <td>O</td>
+    </tr>
+    <td>R</td>
+    <td>O</td>
+    <td>F</td>
+    <td>L</td>
+</center>
+
+</body>
+</html>
