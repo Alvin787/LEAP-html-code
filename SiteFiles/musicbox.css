@@ -1,0 +1,42 @@
+body {
+  background-color: black;
+}
+#pianokeys{
+width: 850px;
+height: 200px:auto;
+margin:auto;
+margin-top: 300px;
+}
+.key {
+  height:200px;
+  width:100px;
+  float: left;
+}
+#a {
+  background-color: red;
+  margin-right: 15px;
+}
+#b {
+  background-color: green;
+  margin-right: 15px;
+}
+#c {
+  background-color: purple;
+  margin-right: 15px;
+}
+#d {
+  background-color: orange;
+  margin-right: 15px;
+}
+#e {
+  background-color: blue;
+  margin-right: 15px;
+}
+#f {
+  background-color: yellow;
+  margin-right: 15px;
+}
+#g {
+  background-color: pink;
+  margin-right: 15px;
+}
